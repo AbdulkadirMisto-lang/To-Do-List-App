@@ -11,4 +11,4 @@ Simple ToDo application built with Jetpack Compose.
 - Kotlin
 - Jetpack Compose
 
-![image alt](https://github.com/AbdulkadirMisto-lang/To-Do-List-App/blob/a7e51cb60053447ff6c0b01a88b628c191f2c6fb/screenshots/02%20Add%20New%20Task.png)
+![image alt](https://www.canva.com/design/DAHLbjpluNg/bDQzYh8NoLKGAiaqFhUv8g/edit?ui=e30)
